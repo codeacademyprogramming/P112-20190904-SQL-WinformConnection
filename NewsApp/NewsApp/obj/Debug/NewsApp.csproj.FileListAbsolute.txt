@@ -1,0 +1,10 @@
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\bin\Debug\NewsApp.exe.config
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\bin\Debug\NewsApp.exe
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\bin\Debug\NewsApp.pdb
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\obj\Debug\NewsApp.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\obj\Debug\NewsApp.Form1.resources
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\obj\Debug\NewsApp.Properties.Resources.resources
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\obj\Debug\NewsApp.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\obj\Debug\NewsApp.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\obj\Debug\NewsApp.exe
+C:\Users\sattar\Desktop\P112\C#\20190904\NewsApp\NewsApp\obj\Debug\NewsApp.pdb
